@@ -5,7 +5,7 @@ addons:
     packages:
     - libusb-1.0-0-dev
 node_js:
-- v8
+- v11
 cache:
   directories:
   - node_modules
