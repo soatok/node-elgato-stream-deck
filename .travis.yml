@@ -3,7 +3,7 @@ language: node_js
 addons:
   apt:
     packages:
-    - libusb-1.0-0-dev
+    - libusb-1.0-8-dev
 node_js:
 - v11
 cache:
